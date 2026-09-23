@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-blog-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fresh Ideas - Modern Next.js Editorial Blog",
+  "scripts": {
+    "dev": "npm --prefix blog run dev",
+    "build": "npm --prefix blog run build",
+    "start": "npm --prefix blog run start",
+    "lint": "npm --prefix blog run lint"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "tailwind",
+    "blog",
+    "typescript"
+  ]
+}
